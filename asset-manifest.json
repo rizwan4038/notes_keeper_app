@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/notes_keeper_app/static/js/main.ef5f723d.js",
+    "index.html": "/notes_keeper_app/index.html",
+    "main.ef5f723d.js.map": "/notes_keeper_app/static/js/main.ef5f723d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef5f723d.js"
+  ]
+}
